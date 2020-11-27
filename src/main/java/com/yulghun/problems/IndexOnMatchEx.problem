@@ -1,0 +1,2 @@
+1. Give array must be at least has three or more value. 
+2. Return the index where sums of the elements on either side of that index are equal. 
