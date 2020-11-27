@@ -19,10 +19,11 @@ public class DoubleOnMatchEx {
     }
 
     /**
-     * 1. iterate each element
-     * 2. compare each element to num
-     * 3. multiply the element if equal to num and assign the result to num
-     * 4. repeat from step 1
+     * 1. sort the array
+     * 2. iterate each element
+     * 3. compare each element to num
+     * 4. multiply the element if equal to num and assign the result to num
+     * 5. repeat from step 1
      * @param arr
      * @param num
      * @return
